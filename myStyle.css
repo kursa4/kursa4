@@ -15,8 +15,11 @@ a, a:focus, a:hover {
     color: #333;
     text-shadow: none;
 }
+.navbar{
+    background-color: #00008B;
+}
 html, body {
-    background-color: #333;
+    background-color: #00008B;
 }
 body {
     box-shadow: 0 0 100px rgba(0, 0, 0, 0.5) inset;
